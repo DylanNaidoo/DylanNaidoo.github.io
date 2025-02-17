@@ -1,4 +1,4 @@
 function sayHello() {
-    alert("Hello!");
+    document.getElementById('demo').innerHTML = alert("Hello!");
 }
 
